@@ -60,7 +60,9 @@ The project is broken down into the following steps:
     * What products do the company sell?
     * How are the products categorised?
    
-  4. **Univariate Analysis**
+  4. ## Univariate Analysis
+  Univariate analysis takes into consideration one variable at a time. It is the most basic form of analysis because it onl
+  
   
        **Non-Graphical Univariate Analysis:**
  **Measure of Central Tendency and Dispersion**
@@ -86,7 +88,42 @@ Since the company's major focus was on sales, the target variable in the analysi
   * The skewness of the sales variable is 4.8915 greater than +1, therefore the sales variable is highly positively skewed.
 
 **FREQUENCY DISTRIBUTION OF CATEGORICAL VARIABLES**
-The frequency distribution of all the categorical variables is created to show the distinct values in the the dataset and the number of occurences (frequency counts) of each. It makes it easier to view and understand the data at a glance.
+The frequency distribution of all the categorical variables is created to display the distinct values in the the dataset and the number of occurences (frequency counts) of each. Creating a frequency table makes it easier to view and understand the data at a glance. It gives the dataset a lot more meaning.
+* The function used to achieve this are value_count()
+
+
+### GRAPHICAL UNIVARIATE ANALYSIS
+Using plotly, histograms were plotted to show the frequency table of the following categories:
+* Age_Group
+* Customer_Gender
+* Country
+* State
+* Product_Category
+* Sub_Category
+* Product
+### INSERT ALL THE PHOTOS HERE
+
+Additionally, the following questions were answered.
+* What are the top 20 states by frequency?
+* What are the top 20 products by frequency?
+A graphical representation makes it a lot easier to understand the data's frequency distribution at a glance. 
+
+| CONCLUSION |
+------------- |
+| The conclusion below is based on the assumption that all orders are from unique customers. |
+|  Most of the company's customers are adults, between the ages of 35 and 64. This is followed by the adults group (between the ages of 25 and 34. It means the sales and marketing team should focus most of their marketing efforts at this groups since thats where majority of their customers are. Another way to look at it is that, the company needs to come up with a marketing strategy to attract the older population 64 and above (if they want to get more of this age demographic). |
+| Most of the company's customers are male. But then the number of female customers are not so far behind. |
+| United states has the highest frequency of sale and Germany has the lowest. The reasons for this can then be further analyzed using more data from the company. |
+| California stands out as the state with the highest frequency, followed by British Columbia. |
+| The product_category with the highest frequency is Accesories. |
+| The sub_category with highest frequency is Tires and tubes |
+| Water bottle has the highest frequency | 
+
+
+### BIVARIATE ANALYSIS
+
+
+
 
 
     

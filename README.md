@@ -142,6 +142,7 @@ Bivariate analysis is done using the target variable 'sales' and the different c
 Line Graps were plotted to answer the following questions:
 * What is the average sale by month and year?
 * What is the total sale by month and year?
+![Avgsale](https://github.com/Jennie-Techie/Python/blob/50e756911d00bab0ac2ebc238a290224764e0222/Plots/download%20(1).png)
 
 
 ### Step 7: MULTIVARIATE ANALYSIS
@@ -153,6 +154,7 @@ The following visualizations were plotted for the multivariate analysis.
 **Find some of the plots below**
 ![Treemap1](https://github.com/Jennie-Techie/Python/blob/bb7e603392e184806b83cbbfbe1df2383f2ee7db/Plots/newplot%20(22).png)
 ![Treemap2](https://github.com/Jennie-Techie/Python/blob/bb7e603392e184806b83cbbfbe1df2383f2ee7db/Plots/newplot%20(23).png)
+![Correlationtable](https://github.com/Jennie-Techie/Python/blob/5995576f601c86616e7645b27c2051fc3a0b9c14/Plots/download.png)
 
 
 

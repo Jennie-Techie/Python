@@ -1,5 +1,10 @@
 # Sales Exploratory Data Analysis with Python
 
+* **To view a pdf version of the project, click here**
+* **To view the jupyternotebook, click here**
+
+## PROJECT SUMMARY
+
 ### OBJECTIVES
 This project focuses on applying Exploratory Data Analysis (EDA) on the sales data of a fictitous company in order to acheive the following:
 > * investigate and understand the data
@@ -61,7 +66,7 @@ The project is broken down into the following steps:
  * How are the products categorised?
    
   
-  ### Step 4:  Univariate Analysis
+  ### Step 4:  UNIVARIATE ANALYSIS
   Univariate analysis is the most basic form of analysis. It takes into consideration one variable at a time. The aim of univariate analysis is to understand the distribution of data in a dataset. Univariate analysis can be both graphical and non-graphical. For the purpose of this project, both types of univariate analysis would be conducted. 
 
 **Non-Graphical Univariate Analysis:**
@@ -82,7 +87,7 @@ The project is broken down into the following steps:
   * Skewness less than -1 or greater than 1 means the data is highly skewed.
   * Using the .skew() function, the distribution of the data is given, in terms of skewness
    
-  | **Conclusion** |
+  | **Observation** |
   | --------------  |
   | * The minimum sales value is 2, the maximum sales value is 69136 and the count is 113036. |
   | * The measure of dispersion(standard deviation) is 1466.202934. |
@@ -90,10 +95,8 @@ The project is broken down into the following steps:
   | * IQR is the difference between the 75th and 25th percentile, and the IQR for the sales variable is 810 |
   | * The skewness of the sales variable is 4.8915 greater than +1, therefore the sales variable is highly positively skewed. |
 
-**FREQUENCY DISTRIBUTION OF CATEGORICAL VARIABLES**
-The frequency distribution of all the categorical variables is created to display the distinct values in the the dataset and the number of occurences (frequency counts) of each. Creating a frequency table makes it easier to view and understand the data at a glance. It gives the dataset a lot more meaning.
-* The function used to achieve this are value_count()
-
+**Frequency distribution of all Categorical Variables**
+The frequency distribution table of all the categorical variables are created to display the distinct values in the the dataset and the number of occurences (frequency counts) of each. Creating a frequency table makes it easier to view and understand the data at a glance. It gives the dataset a lot more meaning.
 
 ### GRAPHICAL UNIVARIATE ANALYSIS
 Using plotly, histograms were plotted to show the frequency table of the following categories:
@@ -106,12 +109,8 @@ Using plotly, histograms were plotted to show the frequency table of the followi
 * Product
 ### INSERT ALL THE PHOTOS HERE
 
-Additionally, the following questions were answered.
-* What are the top 20 states by frequency?
-* What are the top 20 products by frequency?
-A graphical representation makes it a lot easier to understand the data's frequency distribution at a glance. 
 
-| CONCLUSION |
+| Observation |
 ------------- |
 | The conclusion below is based on the assumption that all orders are from unique customers. |
 |  Most of the company's customers are adults, between the ages of 35 and 64. This is followed by the adults group (between the ages of 25 and 34. It means the sales and marketing team should focus most of their marketing efforts at this groups since thats where majority of their customers are. Another way to look at it is that, the company needs to come up with a marketing strategy to attract the older population 64 and above (if they want to get more of this age demographic). |
@@ -123,7 +122,22 @@ A graphical representation makes it a lot easier to understand the data's freque
 | Water bottle has the highest frequency | 
 
 
-### BIVARIATE ANALYSIS
+### Step 5: BIVARIATE ANALYSIS
+Bivariate analysis is done using the target variable 'sales' and the different categorical variables. Firstly, it is done using the sum of sales and then it is done using the average sales (mean). Below are some of the graphs. 
+# Add Graphs
+
+### Step 6: Check the total sales by month and year and the average sales by month and year
+Line Graps were plotted to answer the following questions:
+* What is the average sale by month and year?
+* What is the total sale by month and year?
+## Add graphs
+
+### Step 7: MULTIVARIATE ANALYSIS
+The following visualizations were plotted for the multivariate analysis.
+* Tree maps
+* Correlation Matrix
+* Heatmap
+
 
 
 

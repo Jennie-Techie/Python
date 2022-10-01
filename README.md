@@ -1,6 +1,6 @@
 # Sales Exploratory Data Analysis with Python
 
-* **To view a pdf version of the project, click here**
+* **To view a pdf version of the project report, click here**
 * **To view the jupyternotebook, click here**
 
 ## PROJECT SUMMARY
@@ -15,10 +15,11 @@ This project focuses on applying Exploratory Data Analysis (EDA) on the sales da
 > * visualization of the data
 
 Exploring the data also helps to answer some questions:
-> * What
-> * What
-> * What
-> 
+> * What is the frequency distribution of all the categorical variables?
+> * What are the average sales by the customer age, product category, products, state and country?
+> * What age group of customers bring in the most sales?
+> * What was our profit in different countries?
+
 **The overall aim of conducting EDA on the sales data is to discover transactional patterns and gain insights which would help the sales and marketing team make better decisions, thereby improving sales performance and profits.**
 
 ### TOOLS

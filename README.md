@@ -1,7 +1,7 @@
 # Sales Exploratory Data Analysis with Python
 
 * **To view a pdf version of the project report, [click here](https://github.com/Jennie-Techie/Python/blob/f23d1bfd6b144940c6d2302c34e0dac319b47c6e/Sales%20Exploratory_Data%20Analysis%20Project.pdf)
-* **To view the jupyternotebook, click here**
+* **To view all codes in jupyter notebook, [click here](https://github.com/Jennie-Techie/Python/blob/87c4061cacd1b83e0ae46dd1cf933ce902c0ae76/Sales%20Exploratory%20Data%20Analysis%20Project.ipynb)
 
 ## PROJECT SUMMARY
 
@@ -65,7 +65,9 @@ The project is broken down into the following steps:
  * What countries and states do the company serve?
  * What products do the company sell?
  * How are the products categorised?
-   
+  
+  **Fig below is a wordcloud of the product categories**
+  ![Wordcloud](https://github.com/Jennie-Techie/Python/blob/c42ddeb8c5d7e7b32e5bcbc7e2686942d0cc190b/Plots/download%20(3).png)
   
   ### Step 4:  UNIVARIATE ANALYSIS
   Univariate analysis is the most basic form of analysis. It takes into consideration one variable at a time. The aim of univariate analysis is to understand the distribution of data in a dataset. Univariate analysis can be both graphical and non-graphical. For the purpose of this project, both types of univariate analysis would be conducted. 
@@ -108,6 +110,7 @@ Using plotly, histograms were plotted to show the frequency table of the followi
 * Product_Category
 * Sub_Category
 * Product
+
 **Find some of the plots below**
 ![Frequency 1](https://github.com/Jennie-Techie/Python/blob/d91dd8fe114dd9409fc84cb816af9c05ca70cc80/Plots/newplot%20(5).png)
 ![Frequency2](https://github.com/Jennie-Techie/Python/blob/d91dd8fe114dd9409fc84cb816af9c05ca70cc80/Plots/newplot%20(6).png)
@@ -130,6 +133,7 @@ Using plotly, histograms were plotted to show the frequency table of the followi
 
 ### Step 5: BIVARIATE ANALYSIS
 Bivariate analysis is done using the target variable 'sales' and the different categorical variables. Firstly, it is done using the sum of sales and then it is done using the average sales (mean). Below are some of the graphs. 
+
 **find some of the plots below**
 ![Totalsales](https://github.com/Jennie-Techie/Python/blob/161f6fbe7de7a35213fbdb91d9391c565b5d75ce/Plots/newplot%20(12).png)
 ![Totalsales2](https://github.com/Jennie-Techie/Python/blob/161f6fbe7de7a35213fbdb91d9391c565b5d75ce/Plots/newplot%20(13).png)
@@ -143,6 +147,7 @@ Line Graps were plotted to answer the following questions:
 * What is the average sale by month and year?
 * What is the total sale by month and year?
 ![Avgsale](https://github.com/Jennie-Techie/Python/blob/50e756911d00bab0ac2ebc238a290224764e0222/Plots/download%20(1).png)
+![Totalsale](https://github.com/Jennie-Techie/Python/blob/96095d3f61a196b4fd733c27299400ddea66d70a/Plots/download%20(1).png)
 
 
 ### Step 7: MULTIVARIATE ANALYSIS

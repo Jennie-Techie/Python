@@ -108,7 +108,12 @@ Using plotly, histograms were plotted to show the frequency table of the followi
 * Product_Category
 * Sub_Category
 * Product
-### INSERT ALL THE PHOTOS HERE
+**Find some of the plots below**
+![Frequency 1](https://github.com/Jennie-Techie/Python/blob/d91dd8fe114dd9409fc84cb816af9c05ca70cc80/Plots/newplot%20(5).png)
+![Frequency2](https://github.com/Jennie-Techie/Python/blob/d91dd8fe114dd9409fc84cb816af9c05ca70cc80/Plots/newplot%20(6).png)
+![Frequency3](https://github.com/Jennie-Techie/Python/blob/d91dd8fe114dd9409fc84cb816af9c05ca70cc80/Plots/newplot%20(7).png)
+![Frequency4](https://github.com/Jennie-Techie/Python/blob/d91dd8fe114dd9409fc84cb816af9c05ca70cc80/Plots/newplot%20(8).png)
+
 
 
 | Observation |
@@ -125,13 +130,19 @@ Using plotly, histograms were plotted to show the frequency table of the followi
 
 ### Step 5: BIVARIATE ANALYSIS
 Bivariate analysis is done using the target variable 'sales' and the different categorical variables. Firstly, it is done using the sum of sales and then it is done using the average sales (mean). Below are some of the graphs. 
-# Add Graphs
+**find some of the plots below**
+![Totalsales](https://github.com/Jennie-Techie/Python/blob/161f6fbe7de7a35213fbdb91d9391c565b5d75ce/Plots/newplot%20(12).png)
+![Totalsales2](https://github.com/Jennie-Techie/Python/blob/161f6fbe7de7a35213fbdb91d9391c565b5d75ce/Plots/newplot%20(13).png)
+![Totalsales3](https://github.com/Jennie-Techie/Python/blob/161f6fbe7de7a35213fbdb91d9391c565b5d75ce/Plots/newplot%20(14).png)
+![Averagesales1](https://github.com/Jennie-Techie/Python/blob/bb7e603392e184806b83cbbfbe1df2383f2ee7db/Plots/newplot%20(17).png)
+![Averagesales2](https://github.com/Jennie-Techie/Python/blob/bb7e603392e184806b83cbbfbe1df2383f2ee7db/Plots/newplot%20(20).png)
+![Averagesales3](https://github.com/Jennie-Techie/Python/blob/bb7e603392e184806b83cbbfbe1df2383f2ee7db/Plots/newplot%20(19).png)
 
 ### Step 6: Check the total sales by month and year and the average sales by month and year
 Line Graps were plotted to answer the following questions:
 * What is the average sale by month and year?
 * What is the total sale by month and year?
-## Add graphs
+
 
 ### Step 7: MULTIVARIATE ANALYSIS
 The following visualizations were plotted for the multivariate analysis.
@@ -139,6 +150,9 @@ The following visualizations were plotted for the multivariate analysis.
 * Correlation Matrix
 * Heatmap
 
+**Find some of the plots below**
+![Treemap1](https://github.com/Jennie-Techie/Python/blob/bb7e603392e184806b83cbbfbe1df2383f2ee7db/Plots/newplot%20(22).png)
+![Treemap2](https://github.com/Jennie-Techie/Python/blob/bb7e603392e184806b83cbbfbe1df2383f2ee7db/Plots/newplot%20(23).png)
 
 
 

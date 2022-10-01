@@ -1,6 +1,6 @@
 # Sales Exploratory Data Analysis with Python
 
-* **To view a pdf version of the project report, click here**
+* **To view a pdf version of the project report, [click here](https://github.com/Jennie-Techie/Python/blob/f23d1bfd6b144940c6d2302c34e0dac319b47c6e/Sales%20Exploratory_Data%20Analysis%20Project.pdf)
 * **To view the jupyternotebook, click here**
 
 ## PROJECT SUMMARY
